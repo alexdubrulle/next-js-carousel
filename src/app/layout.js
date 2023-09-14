@@ -38,6 +38,12 @@ export default function RootLayout({ children }) {
           name="description"
           content="Découvrez les meilleures photos de sports du monde entier sur Best Sport Picture. Parcourez notre collection exceptionnelle d'images captivantes de sports tels que la boxe, le hockey, le basket-ball, le sprint, le tennis et bien plus encore. Explorez la beauté, la passion et l'action du monde du sport à travers nos clichés uniques."
         />
+        <meta property="og:title" content="Best Sport Pictures" />
+        <meta
+          property="og:description"
+          content="Découvrez les meilleures photos de sports du monde entier sur Best Sport Picture. Parcourez notre collection exceptionnelle d'images captivantes de sports tels que la boxe, le hockey, le basket-ball, le sprint, le tennis et bien plus encore. Explorez la beauté, la passion et l'action du monde du sport à travers nos clichés uniques."
+        />
+        <meta property="og:image" content="/Logo.png" />
       </head>
       <body className={inter.className}>{children}</body>
     </html>
