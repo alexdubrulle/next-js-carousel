@@ -6,7 +6,6 @@
   padding: 2rem 4rem;
   min-height: 100vh;
 
-  background: rgb(0, 0, 0);
   background: linear-gradient(
     0deg,
     rgba(0, 0, 0, 1) 0%,
@@ -17,4 +16,9 @@
 .main h1 {
   color: white;
   margin-bottom: 5vh;
+}
+
+.pictures {
+  height: 10rem;
+  width: 10rem;
 }
