@@ -11,6 +11,11 @@ export default function BootstrapCarousel() {
   const handleSelect = (selectedIndex, e) => {
     setIndex(selectedIndex);
   };
+
+  const openBio = (url) => {
+    window.open(url, "_blank");
+  };
+
   return (
     <Carousel activeIndex={index} onSelect={handleSelect}>
       {bootstrap.map((item) => (
@@ -19,7 +24,12 @@ export default function BootstrapCarousel() {
           <Carousel.Caption className={styles.caption}>
             <h3>{item.title}</h3>
             <p>{item.body}</p>
-            <button className="btn btn-danger">Visit bio</button>
+            <button
+              className="btn btn-danger"
+              onClick={() => openBio(item.docs)}
+            >
+              Visit bio
+            </button>
           </Carousel.Caption>
         </Carousel.Item>
       ))}

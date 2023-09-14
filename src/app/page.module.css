@@ -13,3 +13,8 @@
     rgba(15, 45, 45, 0.6587009803921569) 100%
   );
 }
+
+.main h1 {
+  color: white;
+  margin-bottom: 5vh;
+}
