@@ -3,31 +3,45 @@
     "bootstrap": [
       {
         "id": 1,
-        "title": "Photography",
-        "body": "Bootstrap Carousel Example",
-        "imageUrl": "https://res.cloudinary.com/kizmelvin/image/upload/v1586799813/kizmelvin/persons_pigeon_nurkq2.jpg",
-        "docs": "https://getbootstrap.com/docs/4.0/components/carousel/"
+        "title": "Boxe",
+        "body": "Muhammed Ali",
+        "imageUrl": "https://phototrend.fr/wp-content/uploads/2020/03/muhammed_ali_apres_le_ko_de_sonny_liston.jpeg"
       },
       {
         "id": 2,
-        "title": "City Views",
-        "body": "Bootstrap Carousel Example",
-        "imageUrl": "https://res.cloudinary.com/kizmelvin/image/upload/v1587785064/kizmelvin/michael-BcgEo2CNeYA-unsplash_cdaruk.jpg",
-        "docs": "https://getbootstrap.com/docs/4.0/components/carousel/"
+        "title": "Hockey",
+        "body": "Sidney Crosby",
+        "imageUrl": "https://lapochebleue.com/wp-content/uploads/2022/12/crosby.1.jpeg"
       },
       {
         "id": 3,
-        "title": "Wild Life",
-        "body": "Bootstrap Carousel Example",
-        "imageUrl": "https://res.cloudinary.com/kizmelvin/image/upload/v1586799827/kizmelvin/brownlion_qm8hah.jpg",
-        "docs": "https://getbootstrap.com/docs/4.0/components/carousel/"
+        "title": "Basket-Ball",
+        "body": "Michael Jordan",
+        "imageUrl": "https://www.si.com/.image/t_share/MTY4MTg2MDIyNzgyODM4MDMz/1988-michael-jordan-001238167_0jpg.jpg"
       },
       {
         "id": 4,
-        "title": "Foods and Culture",
-        "body": "Bootstrap Carousel Example",
-        "imageUrl": "https://res.cloudinary.com/kizmelvin/image/upload/v1587870308/kizmelvin/edvin-johansson-5AylXcpJn1I-unsplash_lbhgod.jpg",
-        "docs": "https://getbootstrap.com/docs/4.0/components/carousel/"
+        "title": "Sprint",
+        "body": "Usain Bolt",
+        "imageUrl": "https://zigapskraba.files.wordpress.com/2016/07/09_bolt_g_w.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Tennis",
+        "body": "Novak Djokovic",
+        "imageUrl": "https://assets.gqindia.com/photos/60e464b67829f66368dd3775/16:9/w_2560%2Cc_limit/Djokovic%2520Moments_01.jpg"
+      },
+      {
+        "id": 6,
+        "title": "F2",
+        "body": "Jann Mardenborough",
+        "imageUrl": "https://www.driving.co.uk/wp-content/uploads/sites/5/2014/07/JANN-MARDENBOROUGH-FEATURE.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Football",
+        "body": "Zinedine Zidane",
+        "imageUrl": "https://cdn.britannica.com/78/128778-050-3BEDC27B/Zinedine-Zidane-ball-final-World-Cup-Italy-2006.jpg"
       }
     ]
   }
