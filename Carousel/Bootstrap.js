@@ -19,7 +19,7 @@ export default function BootstrapCarousel() {
           <Carousel.Caption className={styles.caption}>
             <h3>{item.title}</h3>
             <p>{item.body}</p>
-            <button className="btn btn-danger">Visit Docs</button>
+            <button className="btn btn-danger">Visit bio</button>
           </Carousel.Caption>
         </Carousel.Item>
       ))}

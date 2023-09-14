@@ -4,44 +4,51 @@
       {
         "id": 1,
         "title": "Boxe",
-        "body": "Muhammed Ali",
-        "imageUrl": "https://phototrend.fr/wp-content/uploads/2020/03/muhammed_ali_apres_le_ko_de_sonny_liston.jpeg"
+        "body": "Mohamed Ali",
+        "imageUrl": "https://phototrend.fr/wp-content/uploads/2020/03/muhammed_ali_apres_le_ko_de_sonny_liston.jpeg",
+        "docs": "https://fr.wikipedia.org/wiki/Mohamed_Ali"
       },
       {
         "id": 2,
         "title": "Hockey",
         "body": "Sidney Crosby",
-        "imageUrl": "https://lapochebleue.com/wp-content/uploads/2022/12/crosby.1.jpeg"
+        "imageUrl": "https://lapochebleue.com/wp-content/uploads/2022/12/crosby.1.jpeg",
+        "docs": "https://fr.wikipedia.org/wiki/Sidney_Crosby"
       },
       {
         "id": 3,
         "title": "Basket-Ball",
         "body": "Michael Jordan",
-        "imageUrl": "https://www.si.com/.image/t_share/MTY4MTg2MDIyNzgyODM4MDMz/1988-michael-jordan-001238167_0jpg.jpg"
+        "imageUrl": "https://www.si.com/.image/t_share/MTY4MTg2MDIyNzgyODM4MDMz/1988-michael-jordan-001238167_0jpg.jpg",
+        "docs": "https://fr.wikipedia.org/wiki/Michael_Jordan"
       },
       {
         "id": 4,
         "title": "Sprint",
         "body": "Usain Bolt",
-        "imageUrl": "https://zigapskraba.files.wordpress.com/2016/07/09_bolt_g_w.jpg"
+        "imageUrl": "https://zigapskraba.files.wordpress.com/2016/07/09_bolt_g_w.jpg",
+        "docs": "https://fr.wikipedia.org/wiki/Usain_Bolt"
       },
       {
         "id": 5,
         "title": "Tennis",
         "body": "Novak Djokovic",
-        "imageUrl": "https://assets.gqindia.com/photos/60e464b67829f66368dd3775/16:9/w_2560%2Cc_limit/Djokovic%2520Moments_01.jpg"
+        "imageUrl": "https://assets.gqindia.com/photos/60e464b67829f66368dd3775/16:9/w_2560%2Cc_limit/Djokovic%2520Moments_01.jpg",
+        "docs": "https://fr.wikipedia.org/wiki/Novak_Djokovic"
       },
       {
         "id": 6,
         "title": "F2",
         "body": "Jann Mardenborough",
-        "imageUrl": "https://www.driving.co.uk/wp-content/uploads/sites/5/2014/07/JANN-MARDENBOROUGH-FEATURE.jpg"
+        "imageUrl": "https://www.driving.co.uk/wp-content/uploads/sites/5/2014/07/JANN-MARDENBOROUGH-FEATURE.jpg",
+        "docs": "https://fr.wikipedia.org/wiki/Jann_Mardenborough"
       },
       {
         "id": 7,
         "title": "Football",
         "body": "Zinedine Zidane",
-        "imageUrl": "https://cdn.britannica.com/78/128778-050-3BEDC27B/Zinedine-Zidane-ball-final-World-Cup-Italy-2006.jpg"
+        "imageUrl": "https://cdn.britannica.com/78/128778-050-3BEDC27B/Zinedine-Zidane-ball-final-World-Cup-Italy-2006.jpg",
+        "docs": "https://fr.wikipedia.org/wiki/Zin%C3%A9dine_Zidane"
       }
     ]
   }
