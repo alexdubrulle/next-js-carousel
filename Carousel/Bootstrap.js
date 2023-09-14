@@ -3,7 +3,7 @@ import { useState } from "react";
 import { items } from "../public/Items.json";
 import { Carousel } from "react-bootstrap";
 import styles from "../styles/Bootstrap.module.css";
-import "bootstrap/dist/css/bootstrap.min.css"; // Mettez cet import en dernier
+import "bootstrap/dist/css/bootstrap.min.css";
 
 export default function BootstrapCarousel() {
   const { bootstrap } = items;
